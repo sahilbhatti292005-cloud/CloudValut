@@ -1,0 +1,6 @@
+{
+  "name": "CloudVault – Cloud-Based File Storage",
+  "description": "Secure, fast, and simple cloud-based file storage and retrieval system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
